@@ -1,2 +1,2 @@
 # OpenWeatherApi-
-examplePython api request handling
+example Python api request handling
