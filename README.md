@@ -1,2 +1,2 @@
 # OpenWeatherApi-
-Using Python to learning request and handling JSON
+examplePython api request handling
